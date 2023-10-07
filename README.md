@@ -1,5 +1,5 @@
 # 👋 Sobre Mim:
-Olá! Eu sou [Seu Nome], um apaixonado por tecnologia e um entusiasta em constante aprendizado. Atualmente, estou focado em Data Science e estou sempre buscando oportunidades de colaborar em projetos de código aberto relacionados a Machine Learning, JavaScript e Web Scraping.
+Estudo tecnologia e um entusiasta em constante aprendizado. Atualmente, estou focado em Data Science e estou sempre buscando oportunidades de colaborar em projetos de código aberto relacionados a Machine Learning, JavaScript e Web Scraping.
 
 - 🔭 Atualmente, estou trabalhando em projetos de Data Science.
 - 👯 Estou interessado em colaborar em projetos de Machine Learning, JavaScript e Scrapers de código aberto.
